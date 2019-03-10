@@ -33,24 +33,24 @@ VALUES("Lap Desk", "Office & School Supplies", 25.00, 50);
 
 INSERT INTO products
     (product_name, department_name, price,stock_quantity)
-VALUES("Echo Dot", "Electronic", 49.99, 1000);
+VALUES("Smart TV", "Electronic", 549.99, 2000);
 
 INSERT INTO products
     (product_name, department_name, price,stock_quantity)
-VALUES("Echo Dot", "Electronic", 49.99, 1000);
+VALUES("Blow Dryer", "Hair", 22.95, 200);
 
 INSERT INTO products
     (product_name, department_name, price,stock_quantity)
-VALUES("Echo Dot", "Electronic", 49.99, 1000);
+VALUES("T-Shirt", "Clothing", 15.99, 25);
 
 INSERT INTO products
     (product_name, department_name, price,stock_quantity)
-VALUES("Echo Dot", "Electronic", 49.99, 1000);
+VALUES("Towel Set", "Home", 5.99, 10000);
 
 INSERT INTO products
     (product_name, department_name, price,stock_quantity)
-VALUES("Echo Dot", "Electronic", 49.99, 1000);
+VALUES("Apple Laptop", "Electronic", 759.99, 1000);
 
 INSERT INTO products
     (product_name, department_name, price,stock_quantity)
-VALUES("Echo Dot", "Electronic", 49.99, 1000)
+VALUES("Sound Bar", "Electronic", 149.99, 500)
