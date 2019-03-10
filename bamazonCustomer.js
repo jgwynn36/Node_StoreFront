@@ -59,6 +59,7 @@ function placeOrder() {
                 console.log(product.item_id);
                 console.log(product.stock_quantity);
             }
+            // Need to work on this function as it does not work properly.  Looks like I am not able to get into the function to update the quantity
             if (product.stock_quantity < parseInt(answer.quantity)) {
                 console.log("Product Quantity " + product.stock_quantity);
                 console.log("Amount Requested " + answer.quantity);
