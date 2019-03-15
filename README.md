@@ -12,8 +12,8 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 1. inquirer
 
 # Screenshots
-![Customer View](/assets/images/nodeCustomer_screenshot.png)
+![Customer View](../assets/images/nodeCustomer_screenshot.png)
 Format: ![Customer_Screenshot](url)
 
-![Manager View](/assets/images/nodeManager_Inventory_screenshot.png)
+![Manager View](../assets/images/nodeManager_Inventory_screenshot.png)
 Format: ![Manager_Screenshot](url)
